@@ -14,6 +14,6 @@ The program for testing a computer is written in C#. Functionality:
   - Average load
   - Maximum load (CPU is 100% loaded, you can see in the second screenshot)
 
-![Image of Yaktocat](https://raw.githubusercontent.com/Dima7609/StressTestPC/master/stresstestimage1.png)
+![Image](https://raw.githubusercontent.com/Dima7609/StressTestPC/master/stresstestimage1.png)
 
-![Image of Yaktocat](https://raw.githubusercontent.com/Dima7609/StressTestPC/master/stresstestimage2.png)
+![Image](https://raw.githubusercontent.com/Dima7609/StressTestPC/master/stresstestimage2.png)
